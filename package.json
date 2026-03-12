@@ -7,7 +7,7 @@
   "dependencies": {
     "@types/mdast": "^4.0.0",
     "mdast-util-directive": "^3.0.0",
-    "micromark-extension-directive": "github:DavidMulder0/micromark-extension-directive",
+    "micromark-extension-directive": "github:DavidMulder0/micromark-extension-directive#0babd3d6014c4008b0ddc570bb1a80ec94f599f5",
     "unified": "^11.0.0"
   },
   "description": "remark plugin to support directives",
